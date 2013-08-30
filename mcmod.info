@@ -398,5 +398,25 @@
             "MineFactoryReloaded"
         ], 
         "description": "Compatibility addon for XyCraft"
+    }, 
+    {
+        "name": "MFR Compat: Big Reactors", 
+        "parent": "MineFactoryReloaded", 
+        "url": "http://www.minecraftforum.net/topic/1629898-", 
+        "logoFile": "", 
+        "updateUrl": "", 
+        "credits": "All the contributors", 
+        "version": "2.7.0B8", 
+        "modid": "MineFactoryReloaded|CompatBigReactors", 
+        "authors": [
+            "PowerCrystals", 
+            "admiral0"
+        ], 
+        "mcversion": "1.5.1", 
+        "screenshots": [], 
+        "dependencies": [
+            "MineFactoryReloaded"
+        ], 
+        "description": "Compatibility addon for Big Reactors"
     }
 ]
